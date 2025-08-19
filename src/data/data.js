@@ -41,9 +41,8 @@ export const projectsData = [
     description: "A smooth and responsive personal portfolio website built using ReactJs and Tailwind CSS. It also uses React Scroll.",
     tags: ["ReactJS", "TailwindCSS","React-Scroll"],
     imageUrl: "/protfolio.png",
-    linkToProject: ""
+    linkToProject: "https://parthkotweportfoliowebsite.vercel.app/"
   },
-  ,
   {
     title: "Backend Course Selling Wesite",
     description: "Developed a full-featured backend for an online course-selling website using Node.js and Express. Implemented user authentication (JWT), role-based access for students/instructors, course creation & management APIs,student enrollment tracking, and secure payment handling. The system was designed with a modular architecture, ensuring scalability and maintainability.",
@@ -72,7 +71,6 @@ export const skillsData = [
   "C/C++",
   "React.js",
   "JavaScript",
-  "Data Structures",
   "MongoDB",
   "Zod",
   "JWT",
