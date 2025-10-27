@@ -44,6 +44,13 @@ export const projectsData = [
     linkToProject: "https://parthkotweportfoliowebsite.vercel.app/"
   },
   {
+  title: "Notes App (MERN)",
+  description: "A full-stack notes management app built with React, Node.js, Express, and MongoDB. Features secure user authentication (JWT + bcrypt), and CRUD operations for adding, editing, pinning, and deleting notes — all with a clean and responsive UI.",
+  tags: ["MERN", "ReactJS", "NodeJS", "Express", "MongoDB", "JWT", "bcrypt"],
+  imageUrl: "/Notes-App.png",
+  linkToProject: "https://notes-app-six-gules.vercel.app/"
+},
+  {
     title: "Backend Course Selling Wesite",
     description: "Developed a full-featured backend for an online course-selling website using Node.js and Express. Implemented user authentication (JWT), role-based access for students/instructors, course creation & management APIs,student enrollment tracking, and secure payment handling. The system was designed with a modular architecture, ensuring scalability and maintainability.",
     tags: ["Node.js", "ExpressJS","MongoDB","Authentication","Authorization","JWT","Zod","bcrypt","Postman"],
